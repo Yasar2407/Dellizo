@@ -1,0 +1,41 @@
+# Python-related ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.pid
+*.egg-info/
+*.egg
+.venv/
+venv/
+env/
+
+# Environment variables (keep secrets secure)
+.env
+.env.local
+.env.development
+.env.staging
+.env.production
+*.env
+!.env.example
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# FAISS and data cache
+app/data/*.index
+app/data/*.meta
+
+# Model cache and transformer weights
+~/.cache/
+hf_cache/
+transformers_cache/

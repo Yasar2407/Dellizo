@@ -1,0 +1,55 @@
+{"text":"I feel so happy today, everything is going my way.","label":"joy"}
+{"text":"That compliment made me smile all afternoon.","label":"joy"}
+{"text":"I’m filled with gratitude for my friends.","label":"joy"}
+{"text":"My heart feels light and content.","label":"joy"}
+{"text":"I feel proud of finishing my work on time.","label":"joy"}
+{"text":"I’m completely relaxed and at peace.","label":"joy"}
+
+{"text":"I feel heartbroken after hearing the news.","label":"sadness"}
+{"text":"There’s an emptiness I can’t shake off.","label":"sadness"}
+{"text":"I miss the people who used to be close to me.","label":"sadness"}
+{"text":"I feel disappointed with how things turned out.","label":"sadness"}
+{"text":"I can’t stop crying about what happened.","label":"sadness"}
+{"text":"I feel lonely even when others are around.","label":"sadness"}
+
+{"text":"I’m furious that they treated me like that.","label":"anger"}
+{"text":"It really irritates me when people lie.","label":"anger"}
+{"text":"I can feel my temper rising right now.","label":"anger"}
+{"text":"That situation was completely unfair.","label":"anger"}
+{"text":"I clenched my fists in frustration.","label":"anger"}
+{"text":"I’m enraged that no one listened to me.","label":"anger"}
+
+{"text":"I’m nervous about tomorrow’s presentation.","label":"fear"}
+{"text":"My chest tightens when I think about it.","label":"fear"}
+{"text":"I feel anxious whenever I’m in crowds.","label":"fear"}
+{"text":"I’m terrified of making a mistake.","label":"fear"}
+{"text":"The sound outside made my heart race.","label":"fear"}
+{"text":"I worry constantly about what could go wrong.","label":"fear"}
+
+{"text":"I’m in awe of the stars tonight.","label":"surprise"}
+{"text":"That unexpected gift left me speechless.","label":"surprise"}
+{"text":"I didn’t expect the results to be so good!","label":"surprise"}
+{"text":"That sudden change caught me off guard.","label":"surprise"}
+{"text":"I’m amazed by how quickly it happened.","label":"surprise"}
+{"text":"Wow, I never saw that coming!","label":"surprise"}
+
+{"text":"I’m disgusted by the way they acted.","label":"disgust"}
+{"text":"That smell made me feel sick.","label":"disgust"}
+{"text":"I can’t stand seeing that kind of behavior.","label":"disgust"}
+{"text":"I felt repulsed watching that scene.","label":"disgust"}
+{"text":"It’s revolting how they ignored basic manners.","label":"disgust"}
+{"text":"I shudder thinking about that experience.","label":"disgust"}
+
+{"text":"I feel calm and balanced right now.","label":"neutral"}
+{"text":"It was just an ordinary day, nothing special.","label":"neutral"}
+{"text":"I don’t feel strongly about it one way or another.","label":"neutral"}
+{"text":"I’m okay, just going through the motions.","label":"neutral"}
+{"text":"Everything feels normal and steady.","label":"neutral"}
+{"text":"There’s nothing much to report — just average.","label":"neutral"}
+
+{"text":"I feel loved and accepted for who I am.","label":"love"}
+{"text":"My heart feels warm thinking of my family.","label":"love"}
+{"text":"I care deeply for the people around me.","label":"love"}
+{"text":"I’m thankful for the bond we share.","label":"love"}
+{"text":"Holding hands made me feel secure and cherished.","label":"love"}
+{"text":"I feel a deep affection toward my partner.","label":"love"}
